@@ -1,0 +1,21 @@
+Rank - Rank od ukupne prodaje
+
+Name - Ime igre
+
+Platform - Platfotma za koju je igra izdata (PS2, PS3, Wii...)
+
+Year - Godina izlaska igre
+
+Genre - Zanr igre
+
+Publisher - Izdavac igre
+
+NA_Sales - Prodaja u Severnoj Americi (u milionima)
+
+EU_Sales - Prodaja u Evropi (u milionima)
+
+JP_Sales - Prodaja u Japanu (u milionima)
+
+Other_Sales - Prodaja u ostatku sveta (u milionima)
+
+Global_Sales - Ukupna globalna prodaja.
